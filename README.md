@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fuad-Nasirudeen
-- 👀 I’m interested in Python and ML
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and ML and AI
 - 💞️ I’m looking to collaborate on any Projects involving Python and Ml
 - 📫 How to reach me through my email ayodeji1504@gmail.com
